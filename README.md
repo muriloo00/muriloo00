@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Murilo 👋</h1>
 
-<!--
-**muriloo00/muriloo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas no <b>SENAI</b> 😎<br>
+  Aprendendo, criando projetos e evoluindo um commit de cada vez.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ Sobre mim
+
+- 👨‍🎓 Murilo de Moraes Machado, aluno do SENAI
+- 🎓 Me formando no curso de **Desenvolvimento de Sistemas**
+- 💻 Foco atual: **JavaScript** e desenvolvimento web
+- 🌱 Sempre estudando e buscando minha primeira oportunidade na área
+- 📫 Vamos conversar? Me chama nos links abaixo
